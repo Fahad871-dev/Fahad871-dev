@@ -143,8 +143,4 @@ Data Analysis            ███████████░░░░░░░�
 Machine Learning         ████████░░░░░░░░░░░░░  Exploring
 System Design            ███████░░░░░░░░░░░░░░  Exploring
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad871-dev&show_icons=true&locale=en&layout=compact" alt="fahad871-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad871-dev&show_icons=true&locale=en" alt="fahad871-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad871-dev&" alt="fahad871-dev" /></p>
