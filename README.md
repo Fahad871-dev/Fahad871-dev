@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad871-dev" alt="fahad871-dev" /></a> </p>
 
-- 🔭 I’m currently working on [coming soon ...](Not live yet - In Development)
+- 🔭 I’m currently working on coming soon ... Not live yet - In Development
 
 - 🌱 I’m currently learning **DRF in depth, React, and AI API Integration**
 
-- 👨‍💻 All of my projects are available at [👨‍💻 Portfolio: https://portfoliosite-beta-wine.vercel.app/# 💻 GitHub: https://github.com/Fahad871-dev](👨‍💻 Portfolio: https://portfoliosite-beta-wine.vercel.app/# 💻 GitHub: https://github.com/Fahad871-dev)
+- 👨‍💻 All of my projects are available at  Portfolio: https://portfoliosite-beta-wine.vercel.app/# 💻 GitHub: https://github.com/Fahad871-dev
 
 - 💬 Ask me about **Django REST Framework, API Development, and Building with AI**
 
 - 📫 How to reach me **fadiuoh2003@gmail.com**
 
-- 📄 Know about my experiences [I'm a Software Engineer specializing in Django REST Framework and React.js. At Zemotify, I architected and shipped a real-time notification system from 0→1 that cut task discovery time for the team. I love turning messy problems into clean APIs and fast UIs. Also exploring Data Analysis and AI/ML with Python.](I'm a Software Engineer specializing in Django REST Framework and React.js. At Zemotify, I architected and shipped a real-time notification system from 0→1 that cut task discovery time for the team. I love turning messy problems into clean APIs and fast UIs. Also exploring Data Analysis and AI/ML with Python.)
+- 📄 **Know about my experiences** I'm a Software Engineer specializing in Django REST Framework and React.js. At Zemotify, I architected and shipped a real-time notification system from 0→1 that cut task discovery time for the team. I love turning messy problems into clean APIs and fast UIs. Also exploring Data Analysis and AI/ML with Python.(I'm a Software Engineer specializing in Django REST Framework and React.js. At Zemotify, I architected and shipped a real-time notification system from 0→1 that cut task discovery time for the team. I love turning messy problems into clean APIs and fast UIs. Also exploring Data Analysis and AI/ML with Python.)
 
 - ⚡ Fun fact **I track everything I learn in public. If I build it, I ship it.**
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahad871-dev&show_icons=true&locale=en&layout=compact" alt="fahad871-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahad871-dev&show_icons=true&locale=en" alt="fahad871-dev" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad871-dev&" alt="fahad871-dev" /></p>
